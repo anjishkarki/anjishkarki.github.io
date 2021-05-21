@@ -1,0 +1,24 @@
+.header {
+}
+
+.navbar {
+  background-color: rgb(126, 124, 128);
+  font-size: larger;
+  padding: 10px 10px;
+}
+
+.container {
+  margin: auto 10%;
+  background-color: rgb(233, 220, 204);
+}
+
+.footer {
+  background-color: rgb(66, 65, 65);
+  color: white;
+  padding: 5px;
+}
+
+#link {
+  font-style: initial;
+  padding: 2px;
+}
